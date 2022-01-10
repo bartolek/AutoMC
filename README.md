@@ -16,5 +16,8 @@
 
 ####################
 
-![alt text](2.png "Title")
+1. Instalacja aplikacji ceneoscraper
+2. Instalacja EPEL, ngnix
+
 ![alt text](3.png "Title")
+![alt text](2.png "Title")
