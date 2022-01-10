@@ -1,0 +1,2 @@
+- name: "aktualizacja"
+  command: "sudo yum update -y"

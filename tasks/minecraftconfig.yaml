@@ -1,0 +1,6 @@
+- name: "Minecraft config"
+  command: "sudo yum install wget"
+  command: "wget https://launcher.mojang.com/v1/objects/125e5adf40c659fd3bce3e66e67a16bb49ecc1b9/server.jar "
+  command: "screen -S \"Minecraft\""
+  command: "java -Xmx512M -Xms512M -jar server.jar nogui"
+

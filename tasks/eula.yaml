@@ -1,0 +1,9 @@
+- name: "Minecraft config"
+  file:
+    path: ~/eula.txt
+    state: touch
+    
+- copy:
+    dest: ~/eula.txt
+    content: |
+                 eula=true

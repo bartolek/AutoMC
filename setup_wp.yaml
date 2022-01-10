@@ -1,0 +1,7 @@
+- hosts: wp_nodes
+  tasks:
+    - include_tasks: tasks/Aktualizacja.yaml
+    - include_tasks: tasks/java.yaml
+    - include_tasks: tasks/screen.yaml
+    - include_tasks: tasks/eula.yaml
+    - include_tasks: tasks/minecraftconfig.yaml
