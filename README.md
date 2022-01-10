@@ -11,3 +11,10 @@
 9. Wykonanie komendy: ansible-playbook -i hosts.ini setup_wp.yaml
 
 ![alt text](run.png "Title")
+
+
+
+####################
+
+![alt text](2.png "Title")
+![alt text](3.png "Title")
